@@ -3,7 +3,7 @@ A complete end‑to‑end repository for mastering classical, machine learning, 
 
 ---
 
-## 📘 Course Overview  
+## Course Overview  
 This repository contains all code, datasets, and notebooks used in the **Full Stack Time Series Forecasting Masterclass**.  
 The course is structured into **4 learning phases**, guiding you from foundations to advanced forecasting and anomaly detection.
 
@@ -19,7 +19,7 @@ You will learn:
 
 ---
 
-## 📂 Repository Structure  
+## Repository Structure  
 
 ```
 full-stack-time-series-forecasting/
@@ -27,14 +27,12 @@ full-stack-time-series-forecasting/
 ├── notebooks/        # Jupyter notebooks for each module
 ├── datasets/         # Raw and cleaned datasets
 ├── setup/            # requirements.txt and environment setup
-├── scripts/          # Utility scripts for modeling and preprocessing
-├── images/           # Diagrams used in the course
 └── README.md
 ```
 
 ---
 
-## ⚙️ Installation & Setup  
+## Installation & Setup  
 
 Clone the repository:
 
@@ -57,7 +55,7 @@ Recommended environment:
 
 ---
 
-## 🚀 Recommended Workflow (4‑Phase Learning System)
+## Recommended Workflow (4‑Phase Learning System)
 
 To maximize retention, follow this flow for every module:
 
@@ -120,7 +118,7 @@ All datasets are stored in the `datasets/` folder.
 
 ---
 
-## 🧠 How to Use the Notebooks  
+##  How to Use the Notebooks  
 
 Each notebook is designed to be self‑contained and includes:
 
@@ -138,7 +136,7 @@ You can run them in:
 
 ---
 
-## 📘 Optional Book Recommendation  
+## Optional Book Recommendation  
 
 For deeper theoretical understanding, you may optionally refer to:
 
@@ -149,7 +147,7 @@ The course provides all necessary materials.
 
 ---
 
-## 🆘 Support  
+##  Support  
 
 If you need help:
 
